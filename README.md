@@ -1,4 +1,4 @@
-# 🌐 TradelinkOrg
+# 🌐 Yumitrade
 
 <div align="center">
 
@@ -14,7 +14,7 @@
 
 ---
 
-## 📖 About TradelinkOrg
+## 📖 About Yumitrade
 
 Tradelink is an enterprise-grade B2B marketplace platform that connects verified suppliers with qualified buyers in a secure, transparent, and efficient trading environment. Our platform facilitates trust-based commerce through comprehensive verification systems, secure payment handling, and seamless communication channels.
 
@@ -241,13 +241,13 @@ Users of the Tradelink platform agree to abide by our Terms of Service and Priva
 
 ### Intellectual Property
 
-All trademarks, logos, product names, and company names mentioned on this platform are the property of their respective owners. The TradelinkOrg name and logo are registered trademarks of TradelinkOrg.
+All trademarks, logos, product names, and company names mentioned on this platform are the property of their respective owners. The Yumitrade name and logo are registered trademarks of Yumitrade.
 
 ---
 
 ## 🙏 Acknowledgments
 
-TradelinkOrg is built with cutting-edge technology and inspired by best practices from leading global B2B marketplaces. We are committed to:
+Yumitrade is built with cutting-edge technology and inspired by best practices from leading global B2B marketplaces. We are committed to:
 - Maintaining the highest standards of security and compliance
 - Continuously innovating to serve our users better
 - Fostering trust and transparency in B2B commerce
